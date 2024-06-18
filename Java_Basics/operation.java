@@ -6,6 +6,7 @@ public class operation {
         int a = 5;
         int b = 7;
         double c = Math.pow(a, b);
+        double d=a/(double)b;
 
         double sum = (x - y) + z;
         double sum2 = (x * y) + z;
@@ -14,6 +15,7 @@ public class operation {
         System.out.println(sum2);
         System.out.println(sum3);
         System.out.println(c);
+        System.out.println(d);
 
     }
 }
