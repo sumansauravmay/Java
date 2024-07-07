@@ -5,7 +5,7 @@ public class Input {
         // int x = 56 % 5;
         Scanner sc = new Scanner(System.in);
         String scanned = sc.next();// string- take this for all because anything ca be converted in the string.
-       int y=Integer.parseInt(scanned);
+        int y = Integer.parseInt(scanned);
         // int nums = sc.nextInt();// intiger
         // double nums2 = sc.nextDouble();// float
 
